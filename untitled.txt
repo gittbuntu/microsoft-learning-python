@@ -1,0 +1,12 @@
+Bi connector odoo
+------------------------
+
+
+1. python
+2. xmlrpc client pip
+3. pandas pip
+
+odoo_url = "https://demo.odoo.com/"
+db_name = "demo_saas_172_sdsd_dsds"
+username = "admin"
+password = "admin"
